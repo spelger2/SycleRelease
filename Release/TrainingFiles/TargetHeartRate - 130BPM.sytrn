@@ -1,0 +1,10 @@
+<Sycle.Training version="1.0">
+  <Type>HeartRateInterval</Type>
+  <Intervals>
+	<Interval target="50,76" time="300" />
+    <Loop count="12">
+		<Interval target="76" time="300" />
+    </Loop>
+	<Interval target="76,50" time="300" />
+  </Intervals>
+</Sycle.Training>

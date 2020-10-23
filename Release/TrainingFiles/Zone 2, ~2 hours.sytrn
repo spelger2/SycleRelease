@@ -1,0 +1,68 @@
+<Sycle.Training>
+  <Intervals>
+    <Interval power="30,50" time="300" />
+    <Interval power="95" time="30" />
+    <Interval power="50" time="30" />
+    <Interval power="105" time="30" />
+    <Interval power="50" time="30" />
+    <Interval power="115" time="30" />
+    <Interval power="50" time="30" />
+    <Interval power="125" time="30" />
+    <Interval power="50" time="30" />
+    <Interval power="135" time="30" />
+	<Interval power="50" time="30" />
+
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    <Interval power="55" time="60" />
+    <Interval power="65" time="120" />
+    <Interval power="75" time="300" />
+    <Interval power="65" time="60" />
+    <Interval power="90" time="60" />
+    
+	<Interval power="50,30" time="300" />
+  </Intervals>
+</Sycle.Training>

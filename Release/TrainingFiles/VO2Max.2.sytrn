@@ -1,0 +1,17 @@
+<Sycle.Training>
+    <Intervals>
+        <Interval power="40,80" time="900" />
+        
+        <Loop count="5">
+            <Interval power="60" time="90" />
+            <Interval power="80" time="90" />
+        </Loop>
+
+        <Loop count="5">
+            <Interval power="110" time="180" />
+            <Interval power="60" time="180" />
+        </Loop>
+        
+        <Interval power="80,40" time="900" />
+    </Intervals>
+</Sycle.Training>
